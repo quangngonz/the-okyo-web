@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <LandingPage />
+      <p>Quang dep trai</p>
     </div>
   );
 }
