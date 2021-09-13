@@ -1,0 +1,24 @@
+.shopItems {
+  margin: 10px;
+  text-align: left;
+}
+
+.shopItems--image {
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+}
+
+.shopItems--name {
+  font-weight: lighter;
+  font-size: 17px;
+  top: 5px;
+  margin: 0;
+}
+
+.shopItems--price {
+  font-weight: lighter;
+  font-size: 17px;
+  color: red;
+  margin: 1mm;
+}

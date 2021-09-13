@@ -1,0 +1,79 @@
+.MenuBar {
+  background-color: #231f20;
+  height: 50px;
+  width: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  z-index: 10000;
+}
+
+.MenuBar--logo {
+  transform: scale(0.6);
+  position: absolute;
+  left: 3%;
+}
+
+.MenuBar-NavBar {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  left: 10%;
+}
+
+.Menubar--NavItems {
+  font: Roboto;
+  font-weight: bold;
+  font-size: 13px;
+  color: #ffff;
+  cursor: pointer;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.MenuBar--DownArrow {
+  color: #ffff;
+  transform: scale(1.5);
+  position: absolute;
+  right: 29%;
+  top: 2.5mm;
+}
+
+.Menubar--Shop {
+  font: Roboto;
+  font-weight: bold;
+  font-size: 13px;
+  color: #ffff;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+}
+
+.MenuBar--SocialMedia {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  right: 50px;
+}
+
+.MenuBar--icons {
+  padding: 20px;
+  transform: scale(1.1);
+}

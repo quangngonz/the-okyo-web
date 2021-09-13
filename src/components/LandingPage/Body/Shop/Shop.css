@@ -1,0 +1,17 @@
+.conatinerShop {
+  margin-top: 100px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.containerShop--items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.lastRow {
+  margin-bottom: 100px;
+}
