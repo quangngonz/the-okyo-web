@@ -1,3 +1,11 @@
+# How to clone
+
+### `git clone https://github.com/quangngonz/the-okyo-web`
+### `cd the-okyo-web`
+### `npm install`
+## `npm start`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
