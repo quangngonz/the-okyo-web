@@ -3,7 +3,7 @@
 ### `git clone https://github.com/quangngonz/the-okyo-web`
 ### `cd the-okyo-web`
 ### `npm install`
-## `npm start`
+### `npm start`
 
 
 # Getting Started with Create React App
